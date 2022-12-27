@@ -1,0 +1,7 @@
+
+pipe.code-worksapce
+
+pipe/build.sh
+pipe/bin/*
+pipe/build/*
+pipe/lib/*
